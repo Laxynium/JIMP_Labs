@@ -6,13 +6,37 @@
 
 #IncludeRegexTransform: 
 
-/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/lab_8/main.c
+E:/JIMP/JIMP_Labs/lab_8/Complex.c
+malloc.h
+-
 stdio.h
 -
 math.h
 -
-stdlib.h
+Complex.h
+E:/JIMP/JIMP_Labs/lab_8/Complex.h
+
+E:/JIMP/JIMP_Labs/lab_8/Complex.h
+
+E:/JIMP/JIMP_Labs/lab_8/Point.c
+stdio.h
+-
+malloc.h
+-
+Point.h
+E:/JIMP/JIMP_Labs/lab_8/Point.h
+math.h
+-
+stdbool.h
 -
 time.h
 -
+
+E:/JIMP/JIMP_Labs/lab_8/Point.h
+
+E:/JIMP/JIMP_Labs/lab_8/main.c
+stdio.h
+-
+Point.h
+E:/JIMP/JIMP_Labs/lab_8/Point.h
 

@@ -1,3 +1,3 @@
-/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/lab_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/lab_8/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/lab_8/cmake-build-debug/CMakeFiles/lab_8.dir
+E:/JIMP/JIMP_Labs/lab_8/cmake-build-debug/CMakeFiles/lab_8.dir
+E:/JIMP/JIMP_Labs/lab_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/JIMP/JIMP_Labs/lab_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

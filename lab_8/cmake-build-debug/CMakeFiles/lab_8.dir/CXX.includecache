@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/lab_8/Point.cpp
+cstdlib
+-
+Point.h
+/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/lab_8/Point.h
+
+/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/lab_8/Point.h
+

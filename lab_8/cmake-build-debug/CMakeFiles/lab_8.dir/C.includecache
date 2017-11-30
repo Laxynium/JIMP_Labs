@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/lab_8/main.c
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+time.h
+-
+

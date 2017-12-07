@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <malloc.h>
 #include "Point.h"
 #include <math.h>
 #include <stdbool.h>
 #include <time.h>
+#include <stdlib.h>
 
 struct Point_t
 {

@@ -1,1 +1,1 @@
-CMakeLists.txt not found in E:\JIMP\JIMP_Labs
+CMakeLists.txt not found in /Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs

@@ -1,6 +1,6 @@
-#include <malloc.h>
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
 #include "Complex.h"
 
 struct Complex_t

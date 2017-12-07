@@ -1,8 +1,8 @@
-# Install script for directory: E:/JIMP/JIMP_Labs/lab_8
+# Install script for directory: /Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_8
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/lab_8")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/JIMP/JIMP_Labs/lab_8/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_8/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

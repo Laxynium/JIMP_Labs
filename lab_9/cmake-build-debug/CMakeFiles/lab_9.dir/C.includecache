@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_9/Table.c
+time.h
+-
+Table.h
+/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_9/Table.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+assert.h
+-
+
+/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_9/Table.h
+
+/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_9/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+Table.h
+/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_9/Table.h
+

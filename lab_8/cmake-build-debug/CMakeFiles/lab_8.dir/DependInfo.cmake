@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "E:/JIMP/JIMP_Labs/lab_8/Complex.c" "E:/JIMP/JIMP_Labs/lab_8/cmake-build-debug/CMakeFiles/lab_8.dir/Complex.c.obj"
-  "E:/JIMP/JIMP_Labs/lab_8/Point.c" "E:/JIMP/JIMP_Labs/lab_8/cmake-build-debug/CMakeFiles/lab_8.dir/Point.c.obj"
-  "E:/JIMP/JIMP_Labs/lab_8/main.c" "E:/JIMP/JIMP_Labs/lab_8/cmake-build-debug/CMakeFiles/lab_8.dir/main.c.obj"
+  "/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_8/Complex.c" "/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_8/cmake-build-debug/CMakeFiles/lab_8.dir/Complex.c.o"
+  "/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_8/Point.c" "/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_8/cmake-build-debug/CMakeFiles/lab_8.dir/Point.c.o"
+  "/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_8/main.c" "/Network/Servers/lab-server.local/NetUsers/2017.1n.grzegorz.gruszczyk/Documents/JIMP/JIMP_Labs/lab_8/cmake-build-debug/CMakeFiles/lab_8.dir/main.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

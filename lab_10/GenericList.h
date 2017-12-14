@@ -17,6 +17,8 @@ void Destroy(GenericListPtr list);
 
 void PushBackElement(GenericListPtr list, void * el);
 
+void AddElement(GenericListPtr list,int index,void *el);
+
 ///If index is out of size returns last element
 void* GetElement(GenericListPtr list,int index);
 

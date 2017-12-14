@@ -96,8 +96,16 @@ void Print(GenericListPtr list)
         itr=itr->nextNode;
     }
     printf("%d\n",*(int*)(itr->data));
-//    for(int i=0;i<list->size;++i)
-//    {
-//
-//    }
+}
+
+void AddElement(GenericListPtr list, int index, void *el)
+{
+    struct Node * itr=list->begin;
+    int k=0;
+    while(k<index-1&&itr->nextNode!=NULL)
+    {
+        ++k;
+        itr=itr->nextNode;
+    }
+    
 }
